@@ -3,3 +3,5 @@ uploaded via github ui
 
 uploaded as a file in git
 ![test](https://raw.githubusercontent.com/tomduncalf/darkmodelogotest/main/test.svg)
+
+![logo](https://user-images.githubusercontent.com/5458070/151807035-1ecf8387-92ba-4c66-b0ee-e08ed8981be5.svg)
